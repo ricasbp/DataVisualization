@@ -1,3 +1,6 @@
+Analyzed and visualized complex environmental data using ParaView and PowerBI, evaluating natural regeneration rates of holm
+oaks under varying climatic conditions, and assessing student success and dropout rates at FCUL from 2016/17 to 2019/20
+
 # PowerBI Project
 
 ![PowerBI1](https://github.com/ricasbp/DataVisualization/assets/59062659/a3aa131d-98af-48cc-91c2-c71a98c52bd8)
