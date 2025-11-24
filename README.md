@@ -5,7 +5,7 @@
 ### Project Description
 This project analyzed data from FCUL to evaluate student performance and dropout rates across different degrees and courses between 2016/17 and 2019/20, using PowerBI for visualization. The analysis focused on success rates by curricular units (UCs) and departments, dropout rates by degree and course, and compared first-year dropout percentages with the percentage of students placed in their first course choice.
 
-### Software Course Analysis
+### Analysis Results
 The analysis showed an overall decline in dropout rates and an increase in academic success, up to the point when students entered the dissertation program, where dropout rates were higher.
 
 # ParaView Project
