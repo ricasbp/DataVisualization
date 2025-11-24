@@ -2,7 +2,11 @@
 
 ![PowerBI1](https://github.com/ricasbp/DataVisualization/assets/59062659/a3aa131d-98af-48cc-91c2-c71a98c52bd8)
 
-Este projeto analisou dados da Faculdade de Ciências da Universidade de Lisboa (FCUL) para avaliar o sucesso e abandono escolar dos alunos de diferentes graus e cursos entre os anos letivos de 2016/17 e 2019/20, utilizando o PowerBI para visualização. A análise focou-se nas taxas de sucesso por Unidades Curriculares (UCs) e departamentos, abandono escolar por grau e curso, e comparou a percentagem de abandono escolar no 1º ano com a percentagem de alunos colocados na sua 1ª opção de curso. A análise revelou tendências gerais, como a diminuição da taxa de abandono ao longo dos anos e um aumento no sucesso escolar. Notou-se ainda a variação nas taxas de abandono e sucesso entre os diferentes departamentos e cursos.
+### Project Description:
+This project analyzed data from FCUL to evaluate student performance and dropout rates across different degrees and courses between 2016/17 and 2019/20, using PowerBI for visualization. The analysis focused on success rates by curricular units (UCs) and departments, dropout rates by degree and course, and compared first-year dropout percentages with the percentage of students placed in their first course choice.
+
+### Results:
+The analysis revealed an overall decline in dropout rates over the years and an increase in academic success. It also highlighted variation in success and dropout rates across different departments and programs.
 
 # ParaView Project
 
